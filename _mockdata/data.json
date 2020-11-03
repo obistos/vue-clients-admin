@@ -1,0 +1,156 @@
+{
+  "clients": [
+    {
+      "id": 2,
+      "first_name": "Hillels",
+      "last_name": "Kunat",
+      "mobile_number": "8933785574",
+      "id_number": 85010154648124,
+      "address": "68 Coolidge Lane"
+    },
+    {
+      "id": 3,
+      "first_name": "Susan",
+      "last_name": "Slotes",
+      "mobile_number": "5976895395",
+      "id_number": 85010154648109,
+      "address": "1 Buhler Junction"
+    },
+    {
+      "id": 4,
+      "first_name": "Martainn",
+      "last_name": "Wheelwright",
+      "mobile_number": "0185845223",
+      "id_number": 85010154648098,
+      "address": "038 Cordelia Avenue"
+    },
+    {
+      "id": 5,
+      "first_name": "Helaine",
+      "last_name": "Luca",
+      "mobile_number": "0047545720",
+      "id_number": 85010154648133,
+      "address": "68 Rusk Crossing"
+    },
+    {
+      "id": 6,
+      "first_name": "Warner",
+      "last_name": "Barnby",
+      "mobile_number": "6044214222",
+      "id_number": 85010154648122,
+      "address": "1 Maryland Crossing"
+    },
+    {
+      "id": 7,
+      "first_name": "Philippine",
+      "last_name": "Chatelain",
+      "mobile_number": "3899942353",
+      "id_number": 85010154648108,
+      "address": "29624 Huxley Drive"
+    },
+    {
+      "id": 8,
+      "first_name": "Elinore",
+      "last_name": "Sleeman",
+      "mobile_number": "2197603906",
+      "id_number": 85010154648131,
+      "address": "46144 Huxley Street"
+    },
+    {
+      "id": 9,
+      "first_name": "Konstantine",
+      "last_name": "Degan",
+      "mobile_number": "3813108813",
+      "id_number": 85010154648146,
+      "address": "02 Bobwhite Alley"
+    },
+    {
+      "id": 10,
+      "first_name": "Cheryl",
+      "last_name": "Pinard",
+      "mobile_number": "4182013689",
+      "id_number": 85010154648127,
+      "address": "55516 Sunfield Park"
+    },
+    {
+      "id": 11,
+      "first_name": "Dedra",
+      "last_name": "St Quenin",
+      "mobile_number": "4656193267",
+      "id_number": 85010154648115,
+      "address": "68 Fair Oaks Hill"
+    },
+    {
+      "id": 12,
+      "first_name": "Ardelia",
+      "last_name": "Patnelli",
+      "mobile_number": "9076273588",
+      "id_number": 85010154648104,
+      "address": "8 Gale Trail"
+    },
+    {
+      "id": 13,
+      "first_name": "Russell",
+      "last_name": "Martynka",
+      "mobile_number": "5613857512",
+      "id_number": 85010154648126,
+      "address": "3481 Messerschmidt Court"
+    },
+    {
+      "id": 14,
+      "first_name": "Ginny",
+      "last_name": "Screase",
+      "mobile_number": "5233675625",
+      "id_number": 85010154648115,
+      "address": "7 Sheridan Court"
+    },
+    {
+      "id": 15,
+      "first_name": "Herman",
+      "last_name": "Mollon",
+      "mobile_number": "9399633543",
+      "id_number": 85010154648099,
+      "address": "4731 Village Road"
+    },
+    {
+      "id": 16,
+      "first_name": "Ermanno",
+      "last_name": "Bellhouse",
+      "mobile_number": "6682063849",
+      "id_number": 85010154648098,
+      "address": "24323 Mendota Lane"
+    },
+    {
+      "id": 17,
+      "first_name": "Engelbert",
+      "last_name": "Emmerson",
+      "mobile_number": "4046368993",
+      "id_number": 85010154648116,
+      "address": "22 Oxford Crossing"
+    },
+    {
+      "id": 18,
+      "first_name": "Davida",
+      "last_name": "Littlepage",
+      "mobile_number": "4494787728",
+      "id_number": 85010154648122,
+      "address": "92 Toban Alley"
+    },
+    {
+      "id": 19,
+      "first_name": "Gregg",
+      "last_name": "Bandey",
+      "mobile_number": "7384322367",
+      "id_number": 85010154648101,
+      "address": "69205 Thompson Pass"
+    },
+    {
+      "id": 20,
+      "first_name": "Leonelle",
+      "last_name": "Scafe",
+      "mobile_number": "9718712941",
+      "id_number": 85010154648133,
+      "address": "66 Grim Court"
+    }
+  ]
+}
